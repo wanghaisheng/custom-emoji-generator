@@ -1,4 +1,4 @@
-# Custom Emoji Generator
+# shop-conan Custom Emoji Generator
 
 An AI-powered SaaS application for YouTube content creators to generate custom emojis based on their channel's profile picture and selected emotions.
 
